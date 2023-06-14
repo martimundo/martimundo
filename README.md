@@ -3,9 +3,9 @@
 
 
 - 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱  Nesse momento estou estudando PHP, JS, BD
+- 🌱  Atualmente continuo nos estudos sobre as linguagens PHP, JS, BD, C#
 - 👯 Sempre que posso ajudo os colegas com o conhecimentos que possuo ...
-- 😊 Meu aprendizado é continuo com cursos e pesquisas na internet
+- 😊 Meu aprendizado é continuo através de cursos e recursos na Internet.
 - 📫 Meu E-mail é: martimundo@gmail.com
 -->
 <div align="center">
