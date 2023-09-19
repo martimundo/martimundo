@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de Suporte
+- 🔭 Atualmente trabalho como Analista de Suporte.
 - 🌱  Atualmente continuo nos estudos sobre as linguagens PHP, JS, BD, C#
 - 👯 Sempre que posso ajudo os colegas com o conhecimentos que possuo ...
 - 😊 Meu aprendizado é continuo através de cursos e recursos na Internet.
